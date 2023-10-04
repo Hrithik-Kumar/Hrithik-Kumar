@@ -18,6 +18,39 @@ I'm actively involved in the realms of deep learning and machine learning, where
 - <img align="left" alt="job" width="23px" src="images/boy.png" /> Teaching Assistant at <a href="https://www.utoronto.ca/"> University of Toronto </a> <br />
 - <img align="left" alt="job" width="23px" src="images/idea.png" /> Research Assistant at <a href="https://www.dsp.utoronto.ca/"> University of Toronto, Mississauga </a> <br />
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Hrithik = {
+  pronouns: "he" | "him",
+  code: [Python, R, JAVA, Javascript, C, SQL],
+  frameworks: [PyTorch, Tensorflow, Node.js, Django],
+  expertise: ["Computer Vision", "Deep learning", "Natural Language Processing"],
+  Platforms: {
+                Python: ["VSCode", "Colab", "Jupyter Notebook"],
+                SQL: "PostgreSQL",
+                NoSQL: ["MongoDB", "Neo4j"]
+                Cloud: ["AWS", "GCP"]
+              },
+ Current interests: "I am currently learning about efficiently deploying ML Models"
+}
+```
+<br />
+
+### 📊 My GitHub stats
+<p>
+<a href="https://github.com/Hrithik-Kumar">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hrithik-Kumar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Hrithik" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hrithik-Kumar&layout=compact&langs_count=8&theme=algolia" alt="top" />
+</a>
+</p>
+ 
+<br />
+📝 Check out my <a href="images/Resume.pdf"> resume </a> <br />
+
+
+
+
 
 
 
