@@ -37,6 +37,11 @@ const Hrithik = {
 ```
 <br />
 
+**Updates:**
+- 🔭 I’m currently pursuing a 4-month [MLZoomcamp2023](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) by [**DataTalks.Club**](https://datatalks.club/) 
+- 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
+
+
 ### 📊 My GitHub stats
 <p>
 <a href="https://github.com/Hrithik-Kumar">
