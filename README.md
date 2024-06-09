@@ -38,7 +38,10 @@ const Hrithik = {
 <br />
 
 **Updates:**
-- 🔭 I’m currently pursuing a 4-month [MLZoomcamp2023](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) by [**DataTalks.Club**](https://datatalks.club/) 
+- 🔭 I'm currently pursuing 4-month [Stock-Markets-Analytics-Zoomcamp](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp) by [**DataTalks.Club**](https://datatalks.club/) in Collaboration with [**PythonInvest**](https://pythoninvest.com/)
+- 🔭 I'm currently pursuing 4-month [MLOpsZoomcamp2024](https://github.com/DataTalksClub/mlops-zoomcamp) by [**DataTalks.Club**](https://datatalks.club/) 
+- 🔭 I completed a 4-month [DEZoomcamp2024](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts/2024) by [**DataTalks.Club**](https://datatalks.club/) 
+- 🔭 I completed a 4-month [MLZoomcamp2023](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) by [**DataTalks.Club**](https://datatalks.club/) 
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning** projects
 
 
