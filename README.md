@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm <a href="https://www.linkedin.com/in/hrithik-k-586967141/"> Hrithik Kumar Advani! </a>
 
-I'm actively involved in deep learning and machine learning. I'm a dedicated practitioner and learner, deeply passionate about areas like Computer Vision and Natural Language Processing (NLP). I have always been struck by the ability to harness machine learning algorithms to tackle intricate problems and unearth valuable insights. I am here to solve things, and I'm learning a lot in the process.
+I'm actively involved in building applications using LLM. I'm a dedicated practitioner and learner, deeply passionate about LLM Agents, LLMOps, and Natural Language Processing (NLP). I have always been struck by the ability to harness deep learning algorithms to tackle intricate problems and unearth valuable insights. I am here to solve things and learn a lot in the process.
 
 <a href="https://twitter.com/AdvaniHrithik"><img align="left" alt="Hrithik | Twitter" width="23px" src="images/twitter.png" /></a>
 <a href="https://www.linkedin.com/in/hrithik-k-586967141/"><img align="left" alt="Hrithik | LinkedIn" width="23px" src="images/linkedin.png" /></a>
